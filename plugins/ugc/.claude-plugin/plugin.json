@@ -1,0 +1,6 @@
+{
+  "name": "ugc",
+  "version": "2.0.0",
+  "description": "Ajoute un créateur UGC (lien Fiverr, Canva, Youdji, site perso) à la base créateurs Notion et au listing UGC d'un client.",
+  "author": { "name": "clem-lgn" }
+}

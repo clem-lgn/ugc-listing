@@ -1,0 +1,12 @@
+{
+  "name": "ugc-tools",
+  "owner": { "name": "clem-lgn" },
+  "metadata": { "description": "Skills Claude Code pour les creative strategists paid social" },
+  "plugins": [
+    {
+      "name": "ugc",
+      "source": "./plugins/ugc",
+      "description": "Ajoute un créateur UGC (lien Fiverr, Canva, Youdji, site perso) à la base créateurs Notion et au listing UGC d'un client."
+    }
+  ]
+}
